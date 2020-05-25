@@ -1,0 +1,153 @@
+body {
+    background: linear-gradient(45deg, #f0f9ff 10%, #cbebff 47%, #a1dbff 100%);
+    height: 520px;
+}
+
+.col-lg-4 {
+    margin-top: 30px;
+}
+
+.img_circular {
+    margin-left: 100px;
+    width: 300px;
+    height: 300px;
+    border-radius: 200px
+}
+
+.img_media {
+    width: 250;
+    height: 250;
+}
+
+
+/*Configurando altura superior do site*/
+
+.tp {
+    margin-top: 100px;
+}
+
+.p {
+    text-align: justify;
+}
+
+
+/*formatacao slide*/
+
+.img-orientacao {
+    height: 350px;
+}
+
+
+/*rodape link telesus*/
+
+.img_telesus {
+    width: 450px;
+}
+
+.link_telesus {
+    margin-left: 150px;
+}
+
+
+/*Formatacao capos de formulario*/
+
+.cap_peg {
+    width: 100px;
+}
+
+.cap_med {
+    width: 200px;
+}
+
+.cap_grande {
+    width: 300px;
+}
+
+
+/* fim*/
+
+
+/* login*/
+
+.img_left {
+    margin-left: auto;
+}
+
+.login {
+    margin-right: 25px;
+}
+
+.cadastro {
+    text-align: center;
+}
+
+.acesso {
+    margin-left: 140px;
+}
+
+input[type='submit'] {
+    width: 150px;
+    margin-left: 150px;
+}
+
+
+/*configuracao Hospitais*/
+
+div.global-hospital {
+    float: right;
+    width: 50%;
+    background-color: #fff;
+    border: 1px solid #606060;
+    padding: 50px;
+    box-shadow: 0px 0px 10px #000;
+    margin-top: 7%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+div.global-hospital_1 {
+    float: left;
+    width: 50%;
+    background-color: #fff;
+    border: 1px solid #606060;
+    padding: 50px;
+    box-shadow: 0px 0px 10px #000;
+    margin-top: 7%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.env-hospital {
+    margin-top: 40px;
+    margin-right: 250px;
+}
+
+.centro {
+    margin-left: 180px;
+}
+
+.corpo {
+    margin-top: 100px;
+}
+
+.form-group-hospitais {
+    width: 300px;
+}
+
+
+/* rodape Hospital*/
+
+footer.container_hospital {
+    text-align: center;
+    margin-top: 169px;
+}
+
+
+/*fim*/
+
+
+/* rodape geral*/
+
+footer.container {
+    text-align: center;
+}
